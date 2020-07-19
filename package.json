@@ -9,7 +9,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.12.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "shortid": "^2.2.8",
     "swagger-express-mw": "^0.1.0"
   },
