@@ -8,7 +8,7 @@
   "license": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.12.3",
+    "express": "^4.17.3",
     "lodash": "^4.17.4",
     "shortid": "^2.2.8",
     "swagger-express-mw": "^0.1.0"
